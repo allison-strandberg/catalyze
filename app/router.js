@@ -7,5 +7,10 @@ export default class Router extends EmberRouter {
 }
 
 Router.map(function() {
-  this.route('house');
+  this.route('house', function() {
+    this.route('first-floor');
+    this.route('second-floor');
+    this.route('basement');
+    this.route('attic');
+  });
 });
