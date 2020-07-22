@@ -1,12 +1,29 @@
+body {
+  margin: 0;
+  min-width: fit-content;
+}
+
 .floorplan {
-  max-width: 100%
+  max-width: 100%;
 }
 
 .nav-bar {
-  height: 5em;
-  background-color: black;
+  padding: 0 1em;
+  background-color: black;;
   display: flex;
   align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.nav-links {
+  display: flex;
+  padding: 0 1em;
+}
+
+.nav-title {
+  font-family: 'Press Start 2P', monospace;
+  color: white;
 }
 
 .nav-link {
@@ -23,7 +40,6 @@
 
 .nav-link:hover {
   color: red;
-  box-shadow: -5px 5px 0 -2px red;
 }
 
 .nav-link:active {
