@@ -1,15 +1,21 @@
 body {
   margin: 0;
   min-width: fit-content;
+  background-color: black;
 }
 
 .floorplan {
   max-width: 100%;
+  filter: invert(100%);
+  padding-top: 3em;
 }
 
 .nav-bar {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
   padding: 0 1em;
-  background-color: black;;
+  background-color: black;
   display: flex;
   align-items: center;
   justify-content: space-around;
