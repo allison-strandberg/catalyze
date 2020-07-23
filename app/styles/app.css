@@ -4,6 +4,10 @@ body {
   background-color: black;
 }
 
+.enter {
+  margin: 5rem 5rem;
+}
+
 .floorplan {
   max-width: 100%;
   filter: invert(100%);
