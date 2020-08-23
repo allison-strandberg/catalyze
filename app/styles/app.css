@@ -60,3 +60,7 @@ body {
   justify-content: center;
   padding-top: 10rem;
 }
+
+h1 {
+  color: white;
+}
