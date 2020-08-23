@@ -1,9 +1,13 @@
 <div class="nav-bar">
   <h1 class="nav-title">Catalyze Playhouse</h1>
+  {{#if this.media.isMobile}}
+    <BurgerMenu />
+  {{else}}
   <div class="nav-links">
     <LinkTo class="nav-link" @route="house.basement">Basement</LinkTo>
     <LinkTo class="nav-link" @route="house.first-floor">First Floor</LinkTo>
     <LinkTo class="nav-link" @route="house.second-floor">Second Floor</LinkTo>
     <LinkTo class="nav-link" @route="house.attic">Attic</LinkTo>
   </div>
+  {{/if}}
 </div>
