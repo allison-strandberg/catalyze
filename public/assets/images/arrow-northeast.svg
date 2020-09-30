@@ -1,0 +1,9 @@
+<svg viewBox="0 0 80 72" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <polygon xmlns="http://www.w3.org/2000/svg" fill="#ff9900" points="16,0 16,16 0,24 0,56 32,72 64,56 80,64 80,0 "></polygon>
+    <polygon xmlns="http://www.w3.org/2000/svg" opacity="0.11" points="16,0 32,8 16,16 "></polygon>
+    <polygon xmlns="http://www.w3.org/2000/svg" opacity="0.11" points="0,24 32,40 32,72 0,56 "></polygon>
+    <polygon xmlns="http://www.w3.org/2000/svg" opacity="0.29" points="64,24 32,40 32,72 64,56 "></polygon>
+    <polygon xmlns="http://www.w3.org/2000/svg" opacity="0.11" points="64,24 80,32 80,64 64,56 "></polygon>
+  </g>
+</svg>
