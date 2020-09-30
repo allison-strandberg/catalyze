@@ -85,7 +85,7 @@ h1 {
 
 .arrow-basement {
   position: absolute;
-  top: 700px;
-  left: 200px;
-  width: 100px;
+  bottom: -10px;
+  left: 0;
+  width: 10%;
 }
