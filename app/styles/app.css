@@ -59,7 +59,17 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 10rem;
+  padding-top: 8rem;
+}
+
+.floor-svg {
+  width: 100%;
+}
+
+.floor-content {
+  position: relative;
+  display: flex;
+  width: 70%;
 }
 
 h1 {
@@ -85,7 +95,8 @@ h1 {
 
 .arrow-basement {
   position: absolute;
-  bottom: -10px;
-  left: 0;
+  bottom: -20px;
+  left: 0px;
   width: 10%;
+  cursor: pointer;
 }
