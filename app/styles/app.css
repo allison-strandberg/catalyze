@@ -140,6 +140,10 @@ h1 {
   transition: transform 0.1s;
 }
 
+.arrow-svg:focus {
+  stroke: #39A9DB;
+}
+
 @keyframes point-northwest {
   0%, 100% {
     transform: translate(0);
