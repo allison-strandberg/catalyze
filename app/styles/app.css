@@ -114,6 +114,11 @@ h1 {
   right: -1%;
 }
 
+.arrow-master-bedroom {
+  top: -6%;
+  left: 33%;
+}
+
 .arrow-svg {
   transition: transform 0.1s;
 }
@@ -136,10 +141,23 @@ h1 {
   }
 }
 
+@keyframes point-southeast {
+  0%, 100% {
+    transform: translate(0);
+  }
+  50% {
+    transform: translate(10px, 10px);
+  }
+}
+
 .arrow-northeast:hover {
   animation: point-northeast 1s ease-in-out infinite;
 }
 
 .arrow-southwest:hover {
   animation: point-southwest 1s ease-in-out infinite;
+}
+
+.arrow-southeast:hover {
+  animation: point-southeast 1s ease-in-out infinite;
 }
