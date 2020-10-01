@@ -93,6 +93,31 @@ h1 {
   box-shadow: none;
 }
 
+.arrow {
+  position: absolute;
+  width: 10%;
+  cursor: pointer;
+}
+
+.arrow-basement {
+  bottom: -3%;
+  left: 0;
+}
+
+.arrow-living-room {
+  bottom: -12%;
+  left: 12%
+}
+
+.arrow-kitchen {
+  top: 25%;
+  right: -1%;
+}
+
+.arrow-svg {
+  transition: transform 0.1s;
+}
+
 @keyframes point-northeast {
   0%, 100% {
     transform: translate(0);
@@ -102,27 +127,19 @@ h1 {
   }
 }
 
-.arrow {
-  position: absolute;
-  width: 10%;
-  cursor: pointer;
-}
-
-.arrow-basement {
-  bottom: -20px;
-  left: 0px;
-}
-
-.arrow-living-room {
-  bottom: -60px;
-  left: 120px;
-}
-
-.arrow-svg {
-  transition: transform 0.1s;
+@keyframes point-southwest {
+  0%, 100% {
+    transform: translate(0);
+  }
+  50% {
+    transform: translate(-10px, 10px);
+  }
 }
 
 .arrow-northeast:hover {
   animation: point-northeast 1s ease-in-out infinite;
 }
 
+.arrow-southwest:hover {
+  animation: point-southwest 1s ease-in-out infinite;
+}
