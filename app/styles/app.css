@@ -93,11 +93,36 @@ h1 {
   box-shadow: none;
 }
 
-.arrow-basement {
+@keyframes point-northeast {
+  0%, 100% {
+    transform: translate(0);
+  }
+  50% {
+    transform: translate(10px, -10px);
+  }
+}
+
+.arrow {
   position: absolute;
-  bottom: -20px;
-  left: 0px;
   width: 10%;
   cursor: pointer;
+}
+
+.arrow-basement {
+  bottom: -20px;
+  left: 0px;
+}
+
+.arrow-living-room {
+  bottom: -60px;
+  left: 120px;
+}
+
+.arrow-svg {
+  transition: transform 0.1s;
+}
+
+.arrow-northeast:hover {
+  animation: point-northeast 1s ease-in-out infinite;
 }
 
