@@ -194,3 +194,8 @@ h1 {
 .arrow-southwest:hover {
   animation: point-southwest 1s ease-in-out infinite;
 }
+
+.svg-item {
+  stroke: #E68A00;
+  stroke-width: 5px;
+}
