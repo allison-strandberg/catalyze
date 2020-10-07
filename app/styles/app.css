@@ -199,3 +199,23 @@ h1 {
   stroke: #E68A00;
   stroke-width: 5px;
 }
+
+.exterior-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Press Start 2P', monospace;
+  flex-wrap: wrap;
+  color: white;
+}
+
+.exterior {
+  padding: 20px;
+  width: 50%;
+}
+
+.exterior-text {
+  padding: 20px;
+  z-index: 1;
+}
