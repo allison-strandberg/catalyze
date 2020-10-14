@@ -41,17 +41,17 @@ body {
 }
 
 .nav-link:hover {
-  color: #39A9DB;
+  color: #888888;
 }
 
 .nav-link:active {
-  transform: translate(-5px, 5px);
+  transform: translate(5px, 5px);
   box-shadow: none;
 }
 
 .nav-link:focus {
   outline: none;
-  border-color: #39A9DB;
+  border-color: #888888;
 }
 
 .floor {
@@ -71,7 +71,7 @@ body {
   position: relative;
   display: flex;
   width: 70%;
-}
+} 
 
 h1 {
   color: white;
