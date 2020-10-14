@@ -204,7 +204,7 @@ h1 {
   stroke-width: 5px;
 }
 
-.svg-link:hover .arrow-svg, .svg-link:focus .arrow-svg {
+.svg-link:focus .arrow-svg {
   stroke: #39A9DB;
   stroke-width: 5px;
 }
