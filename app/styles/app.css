@@ -199,13 +199,13 @@ h1 {
   outline: none;
 }
 
-.svg-link:focus .svg-item, .svg-link:hover .svg-item, .svg-link:focus .arrow-svg {
-  stroke: #39A9DB;
+.svg-link:focus .svg-item, .svg-link:hover .svg-item {
+  stroke: #E68A00;
   stroke-width: 5px;
 }
 
-.svg-item {
-  stroke: #E68A00;
+.svg-link:hover .arrow-svg, .svg-link:focus .arrow-svg {
+  stroke: #39A9DB;
   stroke-width: 5px;
 }
 
