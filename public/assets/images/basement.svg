@@ -186,7 +186,7 @@
     <path d="m80 240 2-1v-114l-2 1z" opacity=".2"/>
     <path d="m158 201 2-1v-114l-2 1z" opacity=".2"/>
   </g>
-  <a href="https://apps.apple.com/us/app/screw-sorter-2000/id963601730" target="_blank">
+  <a class="svg-link" href="https://apps.apple.com/us/app/screw-sorter-2000/id963601730" target="_blank">
     <g class="svg-item toolbox" transform="matrix(-.525 0 0 .525 716 100)">
       <path d="m0 80v40l80 40 80-40v-40l-80-40z" fill="#cc291f"/>
       <path d="m80 160-80-40v-40l80 40z" opacity=".29"/>
