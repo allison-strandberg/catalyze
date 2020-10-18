@@ -33,10 +33,15 @@ body {
 
 .nav-title {
   padding: 0 1rem;
+  font-size: 1em;
   font-family: 'Press Start 2P', monospace;
   color: white;
   text-shadow: 5px 5px 0 #B36B00;
   transition: transform 0.05s, text-shadow 0.05s;
+}
+
+.nav-title.not-mobile {
+  font-size: 2em;
 }
 
 .nav-link {
@@ -99,13 +104,17 @@ h1 {
   padding: 0.5em;
   margin: 1em;
   border: 3px solid black;
+  transition: transform 0.05s
 }
 
 .burger-menu:active {
-  transform: translate(-5px, 5px);
+  transform: translate(5px, 5px);
   box-shadow: none;
 }
 
+.burger-menu:focus {
+  outline: none;
+}
 .arrow {
   position: absolute;
   width: 10%;
