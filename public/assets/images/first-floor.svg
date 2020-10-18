@@ -3321,17 +3321,19 @@
       <path d="m-584-1060 4 2-4 2-4-2z" fill="#2d3134"/>
       <path d="m-612-1074 4 2-4 2-4-2z" fill="#fff"/>
     </g>
-    <g transform="matrix(.1 0 0 .1 376 544)"
-      xmlns="http://www.w3.org/2000/svg">
-      <path d="m-3520-5400v240l80 40 80-40v-240l-80-40z" fill="#fff"/>
-      <path d="m-3440-5120-80-40v-240l80 40z" opacity=".11"/>
-      <path d="m-3440-5360v240l80-40v-240z" opacity=".29"/>
-      <path d="m-3444-5362 80-40-2-1-80 40v240l2 1z" opacity=".15"/>
-      <path d="m-3410-5350v-10l20-10v10z" opacity=".2"/>
-      <path d="m-3360-5240-80 40-4-2v-4l4 2 80-40z" opacity=".15"/>
-      <path d="m-3406-5360 12-6v6l-12 6z" opacity=".5"/>
-      <path d="m-3360-5160-80 40-4-2v-4l4 2 80-40z" opacity=".15"/>
-    </g>
+    <a class="svg-link" href="https://www.rhizome.solutions/2017/09/a-beginners-guide-to-cryomancy.html" target="_blank">
+      <g class="svg-item fridge" transform="matrix(.1 0 0 .1 376 544)"
+        xmlns="http://www.w3.org/2000/svg">
+        <path d="m-3520-5400v240l80 40 80-40v-240l-80-40z" fill="#fff"/>
+        <path d="m-3440-5120-80-40v-240l80 40z" opacity=".11"/>
+        <path d="m-3440-5360v240l80-40v-240z" opacity=".29"/>
+        <path d="m-3444-5362 80-40-2-1-80 40v240l2 1z" opacity=".15"/>
+        <path d="m-3410-5350v-10l20-10v10z" opacity=".2"/>
+        <path d="m-3360-5240-80 40-4-2v-4l4 2 80-40z" opacity=".15"/>
+        <path d="m-3406-5360 12-6v6l-12 6z" opacity=".5"/>
+        <path d="m-3360-5160-80 40-4-2v-4l4 2 80-40z" opacity=".15"/>
+      </g>
+    </a>
     <g transform="matrix(.1 0 0 .1 368 556)"
       xmlns="http://www.w3.org/2000/svg">
       <path d="m-3520-5360v120l80 40 80-40v-120z" fill="#fff"/>
