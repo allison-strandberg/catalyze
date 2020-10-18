@@ -1,5 +1,5 @@
 <div class="nav-bar" ...attributes>
-  <LinkTo class="title-link" @route="house">
+  <LinkTo class="title-link {{unless this.media.isMobile "not-mobile"}}" @route="house">
     <h1 class="nav-title {{unless this.media.isMobile "not-mobile"}}">Catalyze Playhouse</h1>
   </LinkTo>
   {{#if this.media.isMobile}}

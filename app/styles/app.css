@@ -1,5 +1,11 @@
 @import 'twine.css';
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   min-width: fit-content;
@@ -10,11 +16,10 @@ body {
   position: relative;
   z-index: 1;
   width: 100%;
-  min-height: 5rem;
   background-color: #E68A00;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 
@@ -23,12 +28,18 @@ body {
 }
 
 .title-link {
+  margin: 1rem 0;
+  width: 50%;
   text-decoration: none;
 }
 
 .title-link:active .nav-title {
   transform: translate(5px, 5px);
   text-shadow: none;  
+}
+
+.title-link.not-mobile {
+  width: auto;
 }
 
 .nav-title {
@@ -69,6 +80,10 @@ body {
 .nav-link:focus {
   outline: none;
   border-color: #888888;
+}
+
+.exterior-text {
+  line-height: 1.5rem;
 }
 
 .floor {
