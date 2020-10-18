@@ -105,29 +105,14 @@ h1 {
   left: 0;
 }
 
-.arrow-living-room {
-  bottom: -12%;
-  left: 12%
-}
-
 .arrow-kitchen {
   top: 25%;
   right: -1%;
 }
 
 .arrow-master-bedroom {
-  top: -6%;
-  left: 33%;
-}
-
-.arrow-bunk-bedroom {
-  top: 9%;
-  left: 16%;
-}
-
-.arrow-bathroom {
-  bottom: -5%;
-  right: 23%;
+  top: -4%;
+  left: 30%;
 }
 
 .arrow-study {
