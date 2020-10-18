@@ -902,7 +902,7 @@
       <path d="m72 112.6 1.2-.6v-64l-1.2.6z" opacity=".29"/>
     </g>
   </g>
-  <a class="svg-link" href="http://localhost:4200/house-demo" target="_blank">
+  <a class="svg-link" href="http://localhost:4200/house/basement/coffeepot?demo">
     <g class="svg-item coffeepot" transform="matrix(.6 0 0 .6 704 44)">
       <path d="m21 12 12-6 4 2v18l-2 1-4-2v-12l-6 3z" fill="#656565"/>
       <path d="m37 8v18l-2 1v-16l-10 5v-2z" opacity=".29"/>

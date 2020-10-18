@@ -10,7 +10,9 @@ Router.map(function() {
   this.route('house', function() {
     this.route('first-floor');
     this.route('second-floor');
-    this.route('basement');
+    this.route('basement', function() {
+      this.route('coffeepot');
+    });
     this.route('attic');
   });
 });
