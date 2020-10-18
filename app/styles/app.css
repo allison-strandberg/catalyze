@@ -22,11 +22,21 @@ body {
   display: flex;
 }
 
+.title-link {
+  text-decoration: none;
+}
+
+.title-link:active .nav-title {
+  transform: translate(5px, 5px);
+  text-shadow: none;  
+}
+
 .nav-title {
   padding: 0 1rem;
   font-family: 'Press Start 2P', monospace;
   color: white;
   text-shadow: 5px 5px 0 #B36B00;
+  transition: transform 0.05s, text-shadow 0.05s;
 }
 
 .nav-link {
