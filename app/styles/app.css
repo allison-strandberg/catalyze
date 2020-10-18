@@ -6,6 +6,10 @@
   box-sizing: border-box;
 }
 
+button {
+  cursor: pointer;
+}
+
 body {
   margin: 0;
   min-width: fit-content;
@@ -21,6 +25,10 @@ body {
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
+}
+
+.nav-bar.not-mobile {
+  justify-content: space-around;
 }
 
 .nav-links {
@@ -110,6 +118,18 @@ h1 {
 }
 
 .burger-menu {
+  position: relative;
+}
+
+.burger-items {
+  right: 0;
+}
+
+.burger-items .nav-links {
+  flex-direction: column;
+}
+
+.burger-button {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -122,14 +142,19 @@ h1 {
   transition: transform 0.05s
 }
 
-.burger-menu:active {
+.burger-button:active {
   transform: translate(5px, 5px);
   box-shadow: none;
 }
 
-.burger-menu:focus {
+.burger-button:focus {
   outline: none;
 }
+
+.burger-items {
+  position: absolute;
+}
+
 .arrow {
   position: absolute;
   width: 10%;
