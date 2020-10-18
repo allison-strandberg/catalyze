@@ -13,4 +13,10 @@ Router.map(function() {
     this.route('basement');
     this.route('attic');
   });
+  this.route('house-demo', function() {
+    this.route('first-floor');
+    this.route('second-floor');
+    this.route('basement');
+    this.route('attic');
+  });  
 });
