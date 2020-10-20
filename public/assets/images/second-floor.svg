@@ -1613,46 +1613,60 @@
       <path d="m108 343-4 2-20-10 4-2z" fill="#999"/>
     </g>
   </g>
-  <g transform="matrix(3 0 0 3 770 66)">
-    <path d="m0 16v1l2-2v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l1-1v-1z" fill="#4a2121"/>
-    <path d="m16 32 4-2v-2l4-2v-2l4-2v-2l4-2v-2l-16-8-4 2v2l-4 2v2l-4 2v2l-4 2v2z" fill="#762c07"/>
-    <path d="m0 22 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m4 18 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m8 14 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m12 10 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m28 18v2l4-2v-2zm-4 5v1l4-2v-2l-4 2zm-8 9 4-2v-2l-4 2zm4-4 4-2v-2l-4 2z" opacity=".29"/>
-    <path d="m16 24v1l2-2v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l1-1v-1z" fill="#4a2121"/>
-  </g>
-  <g transform="matrix(3 0 0 3 722 114)">
-    <path d="m0 16v1l2-2v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l1-1v-1z" fill="#4a2121"/>
-    <path d="m16 32 4-2v-2l4-2v-2l4-2v-2l4-2v-2l-16-8-4 2v2l-4 2v2l-4 2v2l-4 2v2z" fill="#762c07"/>
-    <path d="m0 22 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m4 18 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m8 14 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m12 10 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m28 18v2l4-2v-2zm-4 5v1l4-2v-2l-4 2zm-8 9 4-2v-2l-4 2zm4-4 4-2v-2l-4 2z" opacity=".29"/>
-    <path d="m16 24v1l2-2v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l1-1v-1z" fill="#4a2121"/>
-  </g>
-  <g transform="matrix(3 0 0 3 674 162)">
-    <path d="m0 16v1l2-2v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l1-1v-1z" fill="#4a2121"/>
-    <path d="m16 32 4-2v-2l4-2v-2l4-2v-2l4-2v-2l-16-8-4 2v2l-4 2v2l-4 2v2l-4 2v2z" fill="#762c07"/>
-    <path d="m0 22 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m4 18 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m8 14 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m12 10 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m28 18v2l4-2v-2zm-4 5v1l4-2v-2l-4 2zm-8 9 4-2v-2l-4 2zm4-4 4-2v-2l-4 2z" opacity=".29"/>
-    <path d="m16 24v1l2-2v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l1-1v-1z" fill="#4a2121"/>
-  </g>
-  <g transform="matrix(3 0 0 3 626 208)">
-    <path d="m0 16v1l2-2v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l1-1v-1z" fill="#4a2121"/>
-    <path d="m16 32 4-2v-2l4-2v-2l4-2v-2l4-2v-2l-16-8-4 2v2l-4 2v2l-4 2v2l-4 2v2z" fill="#762c07"/>
-    <path d="m0 22 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m4 18 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m8 14 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m12 10 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m28 18v2l4-2v-2zm-4 5v1l4-2v-2l-4 2zm-8 9 4-2v-2l-4 2zm4-4 4-2v-2l-4 2z" opacity=".29"/>
-    <path d="m16 24v1l2-2v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l1-1v-1z" fill="#4a2121"/>
-  </g>
+  <a class="svg-link" href="https://catalyze.theater/house/attic?demo">
+    <g class="svg-item second-floor-to-attic">
+      <g transform="matrix(3 0 0 3 770 66)">
+        <path d="m0 16v1l2-2v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l1-1v-1z" fill="#4a2121"/>
+        <path d="m16 32 4-2v-2l4-2v-2l4-2v-2l4-2v-2l-16-8-4 2v2l-4 2v2l-4 2v2l-4 2v2z" fill="#762c07"/>
+        <path d="m0 22 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m4 18 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m8 14 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m12 10 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m28 18v2l4-2v-2zm-4 5v1l4-2v-2l-4 2zm-8 9 4-2v-2l-4 2zm4-4 4-2v-2l-4 2z" opacity=".29"/>
+        <path d="m16 24v1l2-2v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l1-1v-1z" fill="#4a2121"/>
+      </g>
+      <g transform="matrix(3 0 0 3 722 114)">
+        <path d="m0 16v1l2-2v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l1-1v-1z" fill="#4a2121"/>
+        <path d="m16 32 4-2v-2l4-2v-2l4-2v-2l4-2v-2l-16-8-4 2v2l-4 2v2l-4 2v2l-4 2v2z" fill="#762c07"/>
+        <path d="m0 22 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m4 18 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m8 14 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m12 10 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m28 18v2l4-2v-2zm-4 5v1l4-2v-2l-4 2zm-8 9 4-2v-2l-4 2zm4-4 4-2v-2l-4 2z" opacity=".29"/>
+        <path d="m16 24v1l2-2v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l1-1v-1z" fill="#4a2121"/>
+      </g>
+      <g transform="matrix(3 0 0 3 674 162)">
+        <path d="m0 16v1l2-2v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l1-1v-1z" fill="#4a2121"/>
+        <path d="m16 32 4-2v-2l4-2v-2l4-2v-2l4-2v-2l-16-8-4 2v2l-4 2v2l-4 2v2l-4 2v2z" fill="#762c07"/>
+        <path d="m0 22 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m4 18 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m8 14 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m12 10 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m28 18v2l4-2v-2zm-4 5v1l4-2v-2l-4 2zm-8 9 4-2v-2l-4 2zm4-4 4-2v-2l-4 2z" opacity=".29"/>
+        <path d="m16 24v1l2-2v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l1-1v-1z" fill="#4a2121"/>
+      </g>
+      <g transform="matrix(3 0 0 3 626 208)">
+        <path d="m0 16v1l2-2v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l1-1v-1z" fill="#4a2121"/>
+        <path d="m16 32 4-2v-2l4-2v-2l4-2v-2l4-2v-2l-16-8-4 2v2l-4 2v2l-4 2v2l-4 2v2z" fill="#762c07"/>
+        <path d="m0 22 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m4 18 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m8 14 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m12 10 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m28 18v2l4-2v-2zm-4 5v1l4-2v-2l-4 2zm-8 9 4-2v-2l-4 2zm4-4 4-2v-2l-4 2z" opacity=".29"/>
+        <path d="m16 24v1l2-2v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l1-1v-1z" fill="#4a2121"/>
+      </g>
+      <g transform="matrix(3 0 0 3 580 254)">
+        <path d="m0 16v1l2-2v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l1-1v-1z" fill="#4a2121"/>
+        <path d="m16 32 4-2v-2l4-2v-2l4-2v-2l4-2v-2l-16-8-4 2v2l-4 2v2l-4 2v2l-4 2v2z" fill="#762c07"/>
+        <path d="m0 22 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m4 18 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m8 14 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m12 10 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m28 18v2l4-2v-2zm-4 5v1l4-2v-2l-4 2zm-8 9 4-2v-2l-4 2zm4-4 4-2v-2l-4 2z" opacity=".29"/>
+        <path d="m16 24v1l2-2v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l1-1v-1z" fill="#4a2121"/>
+      </g>
+    </g>
+  </a>
   <g transform="matrix(.5 0 0 .5 464 152)">
     <path d="m280 242-66-33-2 1v32l66 33 2-1z" fill="#762c07"/>
     <path d="m212 210 66 33v32l-66-33z" opacity=".11"/>
@@ -1751,17 +1765,7 @@
     <path d="m86 177-6-3-6 3v220l6 3 6-3z" fill="#762c07"/>
     <path d="m74 177 6 3v220l-6-3z" opacity=".11"/>
     <path d="m86 177-6 3v220l6-3z" opacity=".39"/>
-  </g>
-  <g transform="matrix(3 0 0 3 580 254)">
-    <path d="m0 16v1l2-2v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l1-1v-1z" fill="#4a2121"/>
-    <path d="m16 32 4-2v-2l4-2v-2l4-2v-2l4-2v-2l-16-8-4 2v2l-4 2v2l-4 2v2l-4 2v2z" fill="#762c07"/>
-    <path d="m0 22 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m4 18 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m8 14 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m12 10 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m28 18v2l4-2v-2zm-4 5v1l4-2v-2l-4 2zm-8 9 4-2v-2l-4 2zm4-4 4-2v-2l-4 2z" opacity=".29"/>
-    <path d="m16 24v1l2-2v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l1-1v-1z" fill="#4a2121"/>
-  </g>
+  </g>  
   <g transform="matrix(.5 0 0 .5 960 174)">
     <path d="m76 2v240l160 80 4-2v-240l-160-80z" fill="#999"/>
     <path d="m236 322-160-80v-240l160 80z" opacity=".11"/>
@@ -3126,21 +3130,25 @@
     <path d="m96 30-56 28v34l56-28z" opacity=".29"/>
     <path d="m60 12-56 28 36 18 56-28zm-42 27 40-20 24 12-40 20z" fill="#39c" opacity=".3"/>
   </g>
-  <g transform="matrix(-2.5 0 0 2.5 648 564)">
-    <path d="m28 6-2 1 2-1-2 1-2-1-2 1-2-1-2 1-2-1-16 8v2l4 2 2-1 2 1 2-1 2 1 2-1 2 1 16-8v-2z" fill="#762c07"/>
-    <path d="m32 8v2l-16 8v-2z" opacity=".11"/>
-    <path d="m12 16 4 2v-2l-4-2zm-4 0 4 2v-2l-4-2zm-4 0 4 2v-2l-4-2zm-4 0 4 2v-2l-4-2z" opacity=".29"/>
-    <path d="m4 16v2l2-1z" opacity=".11"/>
-    <path d="m8 16v2l2-1z" opacity=".11"/>
-    <path d="m12 16v2l2-1z" opacity=".11"/>
-    <path d="m0 8v1h2v7l1 .5v-7.5h3v7l1 .5v-7.5h3v7l1 .5v-7.5h3v7l1 .5v-7.5h1v-1z" fill="#2d3134"/>
-  </g>
-  <g transform="matrix(2.5 0 0 2.5 528 560)">
-    <path d="m16 26 16-8v-2l-16-8-16 8v2z" fill="#762c07"/>
-    <path d="m0 16 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m16 24v2l16-8v-2z" opacity=".29"/>
-    <path d="m16 16-16-8v1l1 .5v8l1 .5v-8l3 1.5v8l1 .5v-8l3 1.5v8l1 .5v-8l3 1.5v8l1 .5v-8l2 1 2-1v8l1-.5v-8l3-1.5v8l1-.5v-8l3-1.5v8l1-.5v-8l3-1.5v8l1-.5v-8l1-.5v-1z" fill="#2d3134"/>
-  </g>
+  <a class="svg-link" href="https://catalyze.theater/house/first-floor?demo">
+    <g class="svg-item second-floor-to-first-floor">
+      <g transform="matrix(-2.5 0 0 2.5 648 564)">
+        <path d="m28 6-2 1 2-1-2 1-2-1-2 1-2-1-2 1-2-1-16 8v2l4 2 2-1 2 1 2-1 2 1 2-1 2 1 16-8v-2z" fill="#762c07"/>
+        <path d="m32 8v2l-16 8v-2z" opacity=".11"/>
+        <path d="m12 16 4 2v-2l-4-2zm-4 0 4 2v-2l-4-2zm-4 0 4 2v-2l-4-2zm-4 0 4 2v-2l-4-2z" opacity=".29"/>
+        <path d="m4 16v2l2-1z" opacity=".11"/>
+        <path d="m8 16v2l2-1z" opacity=".11"/>
+        <path d="m12 16v2l2-1z" opacity=".11"/>
+        <path d="m0 8v1h2v7l1 .5v-7.5h3v7l1 .5v-7.5h3v7l1 .5v-7.5h3v7l1 .5v-7.5h1v-1z" fill="#2d3134"/>
+      </g>
+      <g transform="matrix(2.5 0 0 2.5 528 560)">
+        <path d="m16 26 16-8v-2l-16-8-16 8v2z" fill="#762c07"/>
+        <path d="m0 16 16 8v2l-16-8z" opacity=".11"/>
+        <path d="m16 24v2l16-8v-2z" opacity=".29"/>
+        <path d="m16 16-16-8v1l1 .5v8l1 .5v-8l3 1.5v8l1 .5v-8l3 1.5v8l1 .5v-8l3 1.5v8l1 .5v-8l2 1 2-1v8l1-.5v-8l3-1.5v8l1-.5v-8l3-1.5v8l1-.5v-8l3-1.5v8l1-.5v-8l1-.5v-1z" fill="#2d3134"/>
+      </g>
+    </g>
+  </a>
   <g transform="matrix(.425 0 0 .425 384 292)">
     <path d="m80 40c-16.6 0-30 6.7-30 15v60c0 8.3 13.4 15 30 15s30-6.7 30-15v-60c0-8.3-13.4-15-30-15z" fill="#999"/>
     <path d="m80 70c-16.6 0-30-6.7-30-15v60c0 8.3 13.4 15 30 15s30-6.7 30-15v-60c0 8.3-13.4 15-30 15z" opacity=".2"/>

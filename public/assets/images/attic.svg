@@ -892,16 +892,18 @@
     <path d="m16 0 16 8-16 8-16-8z" fill="#4a2121"/>
     <path d="m16.4.2-.4-.2-16 8 16 8 .4-.2-15.6-7.8z"/>
   </g>
-  <g transform="matrix(2 0 0 2 744 208)">
-    <path d="m0 16v1l2-2v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l1-1v-1z" fill="#4a2121"/>
-    <path d="m16 32 4-2v-2l4-2v-2l4-2v-2l4-2v-2l-16-8-4 2v2l-4 2v2l-4 2v2l-4 2v2z" fill="#762c07"/>
-    <path d="m0 22 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m4 18 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m8 14 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m12 10 16 8v2l-16-8z" opacity=".11"/>
-    <path d="m28 18v2l4-2v-2zm-4 5v1l4-2v-2l-4 2zm-8 9 4-2v-2l-4 2zm4-4 4-2v-2l-4 2z" opacity=".29"/>
-    <path d="m16 24v1l2-2v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l1-1v-1z" fill="#4a2121"/>
-  </g>
+  <a class="svg-link" href="https://catalyze.theater/house/second-floor?demo">
+    <g class="svg-item attic-to-second-floor" transform="matrix(2 0 0 2 744 208)">
+      <path d="m0 16v1l2-2v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l3-3v7h1v-8l1-1v-1z" fill="#4a2121"/>
+      <path d="m16 32 4-2v-2l4-2v-2l4-2v-2l4-2v-2l-16-8-4 2v2l-4 2v2l-4 2v2l-4 2v2z" fill="#762c07"/>
+      <path d="m0 22 16 8v2l-16-8z" opacity=".11"/>
+      <path d="m4 18 16 8v2l-16-8z" opacity=".11"/>
+      <path d="m8 14 16 8v2l-16-8z" opacity=".11"/>
+      <path d="m12 10 16 8v2l-16-8z" opacity=".11"/>
+      <path d="m28 18v2l4-2v-2zm-4 5v1l4-2v-2l-4 2zm-8 9 4-2v-2l-4 2zm4-4 4-2v-2l-4 2z" opacity=".29"/>
+      <path d="m16 24v1l2-2v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l3-3v7l1-.5v-7.5l1-1v-1z" fill="#4a2121"/>
+    </g>
+  </a>
   <g transform="matrix(5 0 0 5 256 214)">
     <path d="m0 0 32 16v24l-32-16z" fill="#762c07"/>
     <path d="m32 40-32-16v-1l32 16z" fill="#4a2121"/>

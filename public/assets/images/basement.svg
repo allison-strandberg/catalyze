@@ -30,34 +30,38 @@
       <path d="m64 0 64 32-64 32-64-32z"/>
     </g>
   </g>
-  <g transform="matrix(-3.5 0 0 3.5 256 492)">
-    <path d="m26 13-4 2v-1l4-2z" opacity=".11"/>
-    <path d="m26 13-4 2h-4v-1l4-2h4z" fill="#656565"/>
-    <path d="m18 14h4v1h-4z" opacity=".29"/>
-    <path d="m28 6-2 1-2-1-2 1-2-1-2 1-2-1-16 8v1l4 2 2-1 2 1 2-1 2 1 2-1 2 1 16-8v-1z" fill="#762c07"/>
-    <path d="m9 15.5-1 .5v1l2-1z" opacity=".11"/>
-    <path d="m4 14 4 2v1l-4-2z" opacity=".29"/>
-    <path d="m13 15.5-1 .5v1l2-1z" opacity=".11"/>
-    <path d="m8 14 4 2v1l-4-2z" opacity=".29"/>
-    <path d="m32 8-16 8v1l16-8z" opacity=".11"/>
-    <path d="m12 14 4 2v1l-4-2z" opacity=".29"/>
-    <path d="m0 14 4 2v1l-4-2z" opacity=".29"/>
-    <path d="m5 15.5-1 .5v1l2-1z" opacity=".11"/>
-  </g>
-  <g transform="matrix(-3.5 0 0 3.5 200 492)">
-    <path d="m26 13-4 2v-1l4-2z" opacity=".11"/>
-    <path d="m26 13-4 2h-4v-1l4-2h4z" fill="#656565"/>
-    <path d="m18 14h4v1h-4z" opacity=".29"/>
-    <path d="m28 6-2 1-2-1-2 1-2-1-2 1-2-1-16 8v1l4 2 2-1 2 1 2-1 2 1 2-1 2 1 16-8v-1z" fill="#762c07"/>
-    <path d="m9 15.5-1 .5v1l2-1z" opacity=".11"/>
-    <path d="m4 14 4 2v1l-4-2z" opacity=".29"/>
-    <path d="m13 15.5-1 .5v1l2-1z" opacity=".11"/>
-    <path d="m8 14 4 2v1l-4-2z" opacity=".29"/>
-    <path d="m32 8-16 8v1l16-8z" opacity=".11"/>
-    <path d="m12 14 4 2v1l-4-2z" opacity=".29"/>
-    <path d="m0 14 4 2v1l-4-2z" opacity=".29"/>
-    <path d="m5 15.5-1 .5v1l2-1z" opacity=".11"/>
-  </g>
+  <a class="svg-link" href="https://catalyze.theater/house/first-floor?demo">
+    <g class="svg-item basement-to-first-floor">
+      <g transform="matrix(-3.5 0 0 3.5 256 492)">
+        <path d="m26 13-4 2v-1l4-2z" opacity=".11"/>
+        <path d="m26 13-4 2h-4v-1l4-2h4z" fill="#656565"/>
+        <path d="m18 14h4v1h-4z" opacity=".29"/>
+        <path d="m28 6-2 1-2-1-2 1-2-1-2 1-2-1-16 8v1l4 2 2-1 2 1 2-1 2 1 2-1 2 1 16-8v-1z" fill="#762c07"/>
+        <path d="m9 15.5-1 .5v1l2-1z" opacity=".11"/>
+        <path d="m4 14 4 2v1l-4-2z" opacity=".29"/>
+        <path d="m13 15.5-1 .5v1l2-1z" opacity=".11"/>
+        <path d="m8 14 4 2v1l-4-2z" opacity=".29"/>
+        <path d="m32 8-16 8v1l16-8z" opacity=".11"/>
+        <path d="m12 14 4 2v1l-4-2z" opacity=".29"/>
+        <path d="m0 14 4 2v1l-4-2z" opacity=".29"/>
+        <path d="m5 15.5-1 .5v1l2-1z" opacity=".11"/>
+      </g>
+      <g transform="matrix(-3.5 0 0 3.5 200 492)">
+        <path d="m26 13-4 2v-1l4-2z" opacity=".11"/>
+        <path d="m26 13-4 2h-4v-1l4-2h4z" fill="#656565"/>
+        <path d="m18 14h4v1h-4z" opacity=".29"/>
+        <path d="m28 6-2 1-2-1-2 1-2-1-2 1-2-1-16 8v1l4 2 2-1 2 1 2-1 2 1 2-1 2 1 16-8v-1z" fill="#762c07"/>
+        <path d="m9 15.5-1 .5v1l2-1z" opacity=".11"/>
+        <path d="m4 14 4 2v1l-4-2z" opacity=".29"/>
+        <path d="m13 15.5-1 .5v1l2-1z" opacity=".11"/>
+        <path d="m8 14 4 2v1l-4-2z" opacity=".29"/>
+        <path d="m32 8-16 8v1l16-8z" opacity=".11"/>
+        <path d="m12 14 4 2v1l-4-2z" opacity=".29"/>
+        <path d="m0 14 4 2v1l-4-2z" opacity=".29"/>
+        <path d="m5 15.5-1 .5v1l2-1z" opacity=".11"/>
+      </g>  
+    </g>  
+  </a>
   <g fill="#999" transform="matrix(2.5 0 0 2.5 256 464)">
     <path d="m64 0 64 32-64 32-64-32z"/>
     <path d="m64 0 64 32-64 32-64-32z"/>

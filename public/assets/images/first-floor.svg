@@ -3608,40 +3608,42 @@
       <path d="m-3494-5426v18l18 9v-2l-16-8v-16z" fill="#2d3134"/>
     </g>
   </g>
-  <g transform="matrix(-.5 0 0 .5 848 96)">
-    <path d="m130 75 4 2v180l-10 5-4-2v-166l-76 38v170l-10 5-4-2v-180z" fill="#baa794"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m34 127-4-2v180l4 2z" opacity=".29"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m124 92-4 2v166l4 2z" opacity=".29"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m134 77v180l-10 5v-170l-80 40v170l-10 5v-180z" opacity=".11"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m202 303-80-40v-170l2-1 80 40v170z" fill="#762c07"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m192 140v32l-62-31v-32z" fill="#825012"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m130 109v32l62 31v-32zm58 57-54-27v-24l54 27z" opacity=".3"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m192 178v32l-62-31v-32z" fill="#825012"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m130 147v32l62 31v-32zm58 57-54-27v-24l54 27z" opacity=".3"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m192 216v32l-62-31v-32z" fill="#825012"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m130 185v32l62 31v-32zm58 57-54-27v-24l54 27z" opacity=".3"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m192 254v32l-62-31v-32z" fill="#825012"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m130 223v32l62 31v-32zm58 57-54-27v-24l54 27z" opacity=".3"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m187 209 8 4v-6l4 2v21l-4-2v-12l-8-4z" fill="#999"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m202 303-80-40v-170l80 40z" opacity=".29"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m202 303 2-1v-170l-2 1z" opacity=".11"
-      xmlns="http://www.w3.org/2000/svg"/>
-  </g>
+  <a class="svg-link" href="https://catalyze.theater/house/basement?demo">
+    <g class="svg-item first-floor-to-basement" transform="matrix(-.5 0 0 .5 848 96)">
+      <path d="m130 75 4 2v180l-10 5-4-2v-166l-76 38v170l-10 5-4-2v-180z" fill="#baa794"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m34 127-4-2v180l4 2z" opacity=".29"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m124 92-4 2v166l4 2z" opacity=".29"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m134 77v180l-10 5v-170l-80 40v170l-10 5v-180z" opacity=".11"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m202 303-80-40v-170l2-1 80 40v170z" fill="#762c07"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m192 140v32l-62-31v-32z" fill="#825012"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m130 109v32l62 31v-32zm58 57-54-27v-24l54 27z" opacity=".3"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m192 178v32l-62-31v-32z" fill="#825012"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m130 147v32l62 31v-32zm58 57-54-27v-24l54 27z" opacity=".3"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m192 216v32l-62-31v-32z" fill="#825012"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m130 185v32l62 31v-32zm58 57-54-27v-24l54 27z" opacity=".3"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m192 254v32l-62-31v-32z" fill="#825012"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m130 223v32l62 31v-32zm58 57-54-27v-24l54 27z" opacity=".3"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m187 209 8 4v-6l4 2v21l-4-2v-12l-8-4z" fill="#999"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m202 303-80-40v-170l80 40z" opacity=".29"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m202 303 2-1v-170l-2 1z" opacity=".11"
+        xmlns="http://www.w3.org/2000/svg"/>
+    </g>
+  </a>
   <g transform="matrix(5 0 0 5 600 344)">
     <g transform="translate(728 480)"
       xmlns="http://www.w3.org/2000/svg">
@@ -4307,24 +4309,26 @@
     <path d="m126 127 4-2v180l-4 2z" opacity=".29"
       xmlns="http://www.w3.org/2000/svg"/>
   </g>
-  <g transform="matrix(3 0 0 3 480 512)">
-    <path d="m16 0v1h-2v7h-1v-7h-3v7h-1v-7h-3v7h-1v-7h-3v7h-1v-7h-1v-1z"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m4 6 2 1-2-1 2 1 2-1 2 1 2-1 2 1 2-1 16 8v2l-4 2-2-1-2 1-2-1-2 1-2-1-2 1-16-8v-2z" fill="#762c07"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m0 8v2l16 8v-2z" opacity=".11"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m20 14-4 2v2l4-2zm4 0-4 2v2l4-2zm4 0-4 2v2l4-2zm4 0-4 2v2l4-2z" opacity=".29"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m28 16v2l-2-1z" opacity=".11"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m24 16v2l-2-1z" opacity=".11"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m20 16v2l-2-1z" opacity=".11"
-      xmlns="http://www.w3.org/2000/svg"/>
-    <path d="m32 8v1h-2v7l-1 .5v-7.5h-3v7l-1 .5v-7.5h-3v7l-1 .5v-7.5h-3v7l-1 .5v-7.5h-1v-1z"
-      xmlns="http://www.w3.org/2000/svg"/>
-  </g>
+  <a class="svg-link" href="https://catalyze.theater/house/second-floor?demo">
+    <g class="svg-item first-floor-to-second-floor" transform="matrix(3 0 0 3 480 512)">
+      <path d="m16 0v1h-2v7h-1v-7h-3v7h-1v-7h-3v7h-1v-7h-3v7h-1v-7h-1v-1z"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m4 6 2 1-2-1 2 1 2-1 2 1 2-1 2 1 2-1 16 8v2l-4 2-2-1-2 1-2-1-2 1-2-1-2 1-16-8v-2z" fill="#762c07"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m0 8v2l16 8v-2z" opacity=".11"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m20 14-4 2v2l4-2zm4 0-4 2v2l4-2zm4 0-4 2v2l4-2zm4 0-4 2v2l4-2z" opacity=".29"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m28 16v2l-2-1z" opacity=".11"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m24 16v2l-2-1z" opacity=".11"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m20 16v2l-2-1z" opacity=".11"
+        xmlns="http://www.w3.org/2000/svg"/>
+      <path d="m32 8v1h-2v7l-1 .5v-7.5h-3v7l-1 .5v-7.5h-3v7l-1 .5v-7.5h-3v7l-1 .5v-7.5h-1v-1z"
+        xmlns="http://www.w3.org/2000/svg"/>
+    </g>
+  </a>
   <g transform="matrix(.6 0 0 .6 752 476)">
     <path d="m13.9 30.9-.9-1.4v-8c0-.8-1.3-1.5-3-1.5s-3 .7-3 1.5v8s-.3.4-.7 1.1c-1.5 2.1-2.3 3.7-2.3 6.3v19.1c0 1.7 2.7 3 6 3s6-1.3 6-3v-19c0-2.5-.7-4-2.1-6.1z" fill="#656565"
       xmlns="http://www.w3.org/2000/svg"/>
