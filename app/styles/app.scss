@@ -17,6 +17,10 @@ body {
   background-color: black;
 }
 
+h1 {
+  color: white;
+}
+
 .nav-bar {
   position: relative;
   z-index: 1;
@@ -26,10 +30,10 @@ body {
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-}
 
-.nav-bar.not-mobile {
-  justify-content: space-around;
+  &.not-mobile {
+    justify-content: space-around;
+  }
 }
 
 .nav-links {
@@ -40,15 +44,17 @@ body {
   margin: 1rem 0;
   width: 50%;
   text-decoration: none;
-}
 
-.title-link:active .nav-title {
-  transform: translate(5px, 5px);
-  text-shadow: none;  
-}
+  &.not-mobile {
+    width: auto;
+  }
 
-.title-link.not-mobile {
-  width: auto;
+  &:active {
+    .nav-title {
+      transform: translate(5px, 5px);
+      text-shadow: none; 
+    }
+  }
 }
 
 .nav-title {
@@ -58,10 +64,10 @@ body {
   color: white;
   text-shadow: 5px 5px 0 #B36B00;
   transition: transform 0.05s, text-shadow 0.05s;
-}
 
-.nav-title.not-mobile {
-  font-size: 2em;
+  &.not-mobile {
+    font-size: 2em;
+  }
 }
 
 .nav-link {
@@ -75,20 +81,20 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   transition: transform 0.05s;
-}
 
-.nav-link:hover {
-  color: #888888;
-}
+  &:hover {
+    color: #888888;
+  }
 
-.nav-link:active {
-  transform: translate(5px, 5px);
-  box-shadow: none;
-}
+  &:active {
+    transform: translate(5px, 5px);
+    box-shadow: none;
+  }
 
-.nav-link:focus {
-  outline: none;
-  border-color: #888888;
+  &:focus {
+    outline: none;
+    border-color: #888888;
+  }
 }
 
 .exterior-text {
@@ -114,20 +120,17 @@ body {
   width: 70%;
 } 
 
-h1 {
-  color: white;
-}
-
 .burger-menu {
   position: relative;
 }
 
 .burger-items {
+  position: absolute;
   right: 0;
-}
 
-.burger-items .nav-links {
-  flex-direction: column;
+  .nav-links {
+    flex-direction: column;
+  }
 }
 
 .burger-button {
@@ -140,20 +143,16 @@ h1 {
   padding: 0.5em;
   margin: 1em;
   border: 3px solid black;
-  transition: transform 0.05s
-}
+  transition: transform 0.05s;
 
-.burger-button:active {
-  transform: translate(5px, 5px);
-  box-shadow: none;
-}
+  &:active {
+    transform: translate(5px, 5px);
+    box-shadow: none;
+  }
 
-.burger-button:focus {
-  outline: none;
-}
-
-.burger-items {
-  position: absolute;
+  &:focus {
+    outline: none;
+  }
 }
 
 .arrow {
@@ -184,10 +183,10 @@ h1 {
 
 .arrow-svg {
   transition: transform 0.1s;
-}
 
-.arrow-svg:focus {
-  stroke: #39A9DB;
+  &:focus {
+    stroke: #39A9DB;
+  }
 }
 
 @keyframes point-northwest {
