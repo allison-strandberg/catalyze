@@ -42,6 +42,12 @@ h1 {
   display: flex;
 }
 
+.zoom-link-container {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
 .title-link {
   width: 50%;
   margin: 1rem;
@@ -72,7 +78,7 @@ h1 {
   }
 }
 
-.nav-link {
+.nav-link, .zoom-link {
   color: black;
   background-color: white;
   box-shadow: 5px 5px 0 0 #B36B00;
