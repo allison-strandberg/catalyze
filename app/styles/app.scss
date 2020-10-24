@@ -1,5 +1,9 @@
 @import 'ember-paper';
 @import 'twine';
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
 
 $gray: #888888;
 
@@ -327,4 +331,12 @@ h1 {
   font-size: 22px;
   font-family: "Marck Script", sans-serif;
   line-height: 1.5em;
+}
+
+.cutive-mono {
+  font-family: "Cutive Mono", monospace;
+}
+
+.bad-script {
+  font-family: "Bad Script", sans-serif;
 }

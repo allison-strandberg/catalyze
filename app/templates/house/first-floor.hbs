@@ -7,7 +7,7 @@
 </Floor>
 
 {{#if this.begonias}}
-  <Modal @onClose={{this.toFirstFloor}}>
+  <Modal @classNames="begonia-dialog" @onClose={{this.toFirstFloor}}>
       <p>
         Roger acquired this cutting from a man who said he purchased it in Thailand.
         He didn't know the specific name of the plant, but it seems to be some sort of begonia- I plan on writing to some botanists who specialize in plants from the orient to see if any of them can identify it.
@@ -20,7 +20,7 @@
 {{/if}}
 
 {{#if this.lemongrass}}
-  <Modal @onClose={{this.toFirstFloor}}>
+  <Modal @classNames="begonia-dialog" @onClose={{this.toFirstFloor}}>
       <p>
         It appears our little begonia has caused quite a stir in the local horticultural community.
         It seems no one can identify it- but they all seem drawn to it.
@@ -31,7 +31,7 @@
 {{/if}}
 
 {{#if this.snake_plant}}
-  <Modal @onClose={{this.toFirstFloor}}>
+  <Modal @classNames="begonia-dialog" @onClose={{this.toFirstFloor}}>
       <p>
         Some of the botanists who accepted cuttings from our little begonia have written to me to tell me the cuttings are not thriving- most unusual, since all of the ones I’ve placed around the house have been doing quite well.
         Except the ones I keep putting in the kitchen- those keep vanishing.
@@ -41,24 +41,24 @@
 {{/if}}
 
 {{#if this.pothos}}
-  <Modal @onClose={{this.toFirstFloor}}>
+  <Modal @classNames="begonia-dialog" @onClose={{this.toFirstFloor}}>
       <p>
-        Excerpt from the last will and testament of Mrs. Imelda Christopherson
+        <span class="cutive-mono">Excerpt from the last will and testament of Mrs. Imelda Christopherson.</span>
         <br /><br />
-        “There exists, in the conservatory of the house, a most peculiar begonia- it’s exact species no one has ever been able to tell me but it was, for a time, a minor sensation among the botanical societies of Cambridge.
+        There exists, in the conservatory of the house, a most peculiar begonia- it’s exact species no one has ever been able to tell me but it was, for a time, a minor sensation among the botanical societies of Cambridge.
         Given its uniqueness and its apparent inability to thrive in any climate other than this house it is, quite frankly, invaluable.
         I leave it to Ms. Elena Harris.
         It may seem an odd thing to leave something so precious to the daughter of an old servant, but it is what the tree told me to do.
         I know, you think me mad, but I assure you, I am sound of mind as I make this request.
         The begonia has chosen Ms. Harris as its caretaker.
         It will have no other.
-        I ask that she be given room and board and a generous stipend for undertaking this sacred duty.”
+        I ask that she be given room and board and a generous stipend for undertaking this sacred duty.
       </p> 
   </Modal>
 {{/if}}
 
 {{#if this.begonia_sketch}}
-  <Modal @onClose={{this.toFirstFloor}}>
+  <Modal @classNames="begonia-dialog bad-script" @onClose={{this.toFirstFloor}}>
       <p>
         Dear Henry,
         <br /><br />

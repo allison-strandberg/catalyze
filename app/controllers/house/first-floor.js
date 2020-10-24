@@ -13,6 +13,8 @@ export default class HouseFirstFloorController extends Controller {
 
   @tracked pothos;
 
+  @tracked begonia_sketch;
+
   @action
   toFirstFloor() {
     this.transitionToRoute('house.first-floor', { queryParams: { 
