@@ -6,7 +6,7 @@
     @fullscreen={{true}}
     @escapeToClose={{true}}
   >
-    <div class="parchment {{@classNames}}">
+    <div class="dialog-content {{@classNames}}">
       <button class="close-button" {{on "click" @onClose}}>X</button>
       {{yield}} 
     </div>
