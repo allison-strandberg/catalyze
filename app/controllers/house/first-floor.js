@@ -10,6 +10,7 @@ export default class HouseFirstFloorController extends Controller {
     'pothos',
     'begonia_sketch',
     'bookshelf',
+    'wine_bottle',
   ];
 
   @tracked begonias;
@@ -24,6 +25,8 @@ export default class HouseFirstFloorController extends Controller {
 
   @tracked bookshelf;
 
+  @tracked wine_bottle;
+
   @action
   toFirstFloor() {
     this.transitionToRoute('house.first-floor', { queryParams: { 
@@ -33,6 +36,7 @@ export default class HouseFirstFloorController extends Controller {
       pothos: null,
       begonia_sketch: null,
       bookshelf: null,
+      wine_bottle: null,
     }});
   }
 }

@@ -416,3 +416,13 @@ h1 {
 .no-indent {
   text-indent: 0;
 }
+
+.strikeout-container {
+  position: relative;
+  width: 10rem;
+}
+
+.strikeout-item {
+  position: absolute;
+  width: 10rem;
+}
