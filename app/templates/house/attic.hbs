@@ -6,6 +6,15 @@
   </div>  
 </Floor>
 
+{{#if this.bookshelf}}
+  <Modal @classNames="image-dialog" @onClose={{this.toAttic}}>
+    <img
+      src="/assets/images/earth-to-moon.png"
+      alt="A leatherbound edition of De La Terre A La Lune by Jules Verne"
+    />
+  </Modal>
+{{/if}}
+
 {{#if this.magnifying_glass}}
   <Modal @classNames="notebook-paper lonely-text" @onClose={{this.toAttic}}>
     <div class="ruled-page">

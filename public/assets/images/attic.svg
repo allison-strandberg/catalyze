@@ -254,442 +254,444 @@
     <path d="m120.9 175.1v1.2l5.7 12.6v-2.3z" opacity=".2"/>
     <path d="m162 185.4v-1.1l-28.9 8.2 1.5.9z" opacity=".2"/>
   </g>
-  <g transform="matrix(.4 0 0 .4 480 88)">
-    <path d="m0 120v240l80 40 160-80v-240l-80-40z" fill="#762c07"/>
-    <path d="m80 400-80-40v-240l80 40z" opacity=".11"/>
-    <path d="m80 160v240l160-80v-240zm150 153.8-140 70v-217.8l140-70z" opacity=".29"/>
-    <path d="m90 199 140-70v4l-140 70z" opacity=".29"/>
-    <path d="m90 236 140-70v4l-140 70z" opacity=".29"/>
-    <path d="m90 273 140-70v4l-140 70z" opacity=".29"/>
-    <path d="m90 310 140-70v4l-140 70z" opacity=".29"/>
-    <path d="m90 347 140-70v4l-140 70z" opacity=".29"/>
-    <path d="m197 112.5 33 16.5v-33z" opacity=".11"/>
-    <path d="m197 149.5 33 16.5v-33z" opacity=".11"/>
-    <path d="m197 186.5 33 16.5v-33z" opacity=".11"/>
-    <path d="m197 223.5 33 16.5v-33z" opacity=".11"/>
-    <path d="m197 260.5 33 16.5v-33z" opacity=".11"/>
-    <path d="m197 297.5 33 16.5v-33z" opacity=".11"/>
-    <g clip-path="url(#a)">
-      <path d="m198 92v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m220 133-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m220 133 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m224 100-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#a)">
-      <path d="m190 96v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m212 137-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m212 137 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m216 104-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#a)">
-      <path d="m182 100v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m204 141-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m204 141 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m208 108-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#a)">
-      <path d="m168 107v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m190 148-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m190 148 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m194 115-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#a)">
-      <path d="m160 111v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m182 152-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m182 152 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m186 119-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#a)">
-      <path d="m152 115v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m174 156-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m174 156 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m178 123-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#a)">
-      <path d="m144 119v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m166 160-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m166 160 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m170 127-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#a)">
-      <path d="m128 127v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m150 168-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m150 168 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m154 135-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#a)">
-      <path d="m120 131v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m142 172-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m142 172 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m146 139-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#a)">
-      <path d="m112 135v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m134 176-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m134 176 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m138 143-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#a)">
-      <path d="m98 142v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m120 183-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m120 183 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m124 150-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#a)">
-      <path d="m90 146v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m112 187-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m112 187 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m116 154-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#a)">
-      <path d="m82 150v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m104 191-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m104 191 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m108 158-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m192 132v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m214 173-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m214 173 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m218 140-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m184 136v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m206 177-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m206 177 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m210 144-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m176 140v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m198 181-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m198 181 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m202 148-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m168 144v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m190 185-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m190 185 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m194 152-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m160 148v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m182 189-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m182 189 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m186 156-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m152 152v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m174 193-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m174 193 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m178 160-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m144 156v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m166 197-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m166 197 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m170 164-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m128 164v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m150 205-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m150 205 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m154 172-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m120 168v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m142 209-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m142 209 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m146 176-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m112 172v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m134 213-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m134 213 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m138 180-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m88 184v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m110 225-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m110 225 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m114 192-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m80 188v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m102 229-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m102 229 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m106 196-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#b)">
-      <path d="m72 192v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m94 233-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m94 233 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m98 200-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#c)">
-      <path d="m198 166v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m220 207-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m220 207 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m224 174-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#c)">
-      <path d="m190 170v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m212 211-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m212 211 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m216 178-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#c)">
-      <path d="m182 174v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m204 215-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m204 215 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m208 182-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#c)">
-      <path d="m168 181v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m190 222-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m190 222 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m194 189-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#c)">
-      <path d="m160 185v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m182 226-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m182 226 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m186 193-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#c)">
-      <path d="m152 189v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m174 230-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m174 230 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m178 197-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#c)">
-      <path d="m144 193v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m166 234-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m166 234 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m170 201-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#c)">
-      <path d="m128 201v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m150 242-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m150 242 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m154 209-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#c)">
-      <path d="m120 205v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m142 246-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m142 246 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m146 213-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#c)">
-      <path d="m112 209v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m134 250-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m134 250 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m138 217-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#d)">
-      <path d="m174 215v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m196 256-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m196 256 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m200 223-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#d)">
-      <path d="m166 219v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m188 260-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m188 260 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m192 227-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#d)">
-      <path d="m152 226v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m174 267-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m174 267 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m178 234-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#d)">
-      <path d="m144 230v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m166 271-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m166 271 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m170 238-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#d)">
-      <path d="m136 234v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m158 275-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m158 275 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m162 242-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#d)">
-      <path d="m128 238v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m150 279-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m150 279 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m154 246-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#d)">
-      <path d="m120 242v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m142 283-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m142 283 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m146 250-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#d)">
-      <path d="m98 253v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m120 294-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m120 294 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m124 261-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#d)">
-      <path d="m90 257v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m112 298-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m112 298 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m116 265-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#d)">
-      <path d="m82 261v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m104 302-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m104 302 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m108 269-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#e)">
-      <path d="m198 240v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m220 281-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m220 281 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m224 248-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#e)">
-      <path d="m190 244v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m212 285-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m212 285 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m216 252-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#e)">
-      <path d="m182 248v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m204 289-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m204 289 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m208 256-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#e)">
-      <path d="m174 252v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m196 293-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m196 293 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m200 260-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#e)">
-      <path d="m166 256v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m188 297-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m188 297 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m192 264-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#e)">
-      <path d="m152 263v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m174 304-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m174 304 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m178 271-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#e)">
-      <path d="m144 267v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m166 308-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m166 308 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m170 275-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#e)">
-      <path d="m120 279v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m142 320-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m142 320 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m146 287-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#e)">
-      <path d="m112 283v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m134 324-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m134 324 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m138 291-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#e)">
-      <path d="m80 299v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m102 340-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m102 340 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m106 307-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#e)">
-      <path d="m72 303v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m94 344-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m94 344 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m98 311-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m198 277v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m220 318-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m220 318 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m224 285-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m190 281v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m212 322-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m212 322 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m216 289-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m182 285v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m204 326-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m204 326 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m208 293-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m168 292v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m190 333-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m190 333 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m194 300-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m160 296v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m182 337-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m182 337 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m186 304-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m152 300v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m174 341-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m174 341 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m178 308-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m144 304v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m166 345-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m166 345 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m170 312-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m128 312v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m150 353-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m150 353 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m154 320-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m120 316v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
-      <path d="m142 357-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m142 357 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m146 324-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m112 320v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m134 361-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m134 361 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m138 328-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m98 327v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
-      <path d="m120 368-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m120 368 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m124 335-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m90 331v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
-      <path d="m112 372-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m112 372 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m116 339-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-    <g clip-path="url(#f)">
-      <path d="m82 335v30l22 11 6-3v-30l-22-11z" fill="#939"/>
-      <path d="m104 376-22-11v-30l22 11z" opacity=".11"/>
-      <path d="m104 376 6-3v-30l-6 3z" opacity=".29"/>
-      <path d="m108 343-4 2-20-10 4-2z" fill="#999"/>
-    </g>
-  </g>
+  <a class="svg-link" href="https://catalyze.theater/house/attic/?demo=true&amp;bookshelf=perused">
+    <g class="svg-item attic-bookshelf" transform="matrix(.4 0 0 .4 480 88)">
+      <path d="m0 120v240l80 40 160-80v-240l-80-40z" fill="#762c07"/>
+      <path d="m80 400-80-40v-240l80 40z" opacity=".11"/>
+      <path d="m80 160v240l160-80v-240zm150 153.8-140 70v-217.8l140-70z" opacity=".29"/>
+      <path d="m90 199 140-70v4l-140 70z" opacity=".29"/>
+      <path d="m90 236 140-70v4l-140 70z" opacity=".29"/>
+      <path d="m90 273 140-70v4l-140 70z" opacity=".29"/>
+      <path d="m90 310 140-70v4l-140 70z" opacity=".29"/>
+      <path d="m90 347 140-70v4l-140 70z" opacity=".29"/>
+      <path d="m197 112.5 33 16.5v-33z" opacity=".11"/>
+      <path d="m197 149.5 33 16.5v-33z" opacity=".11"/>
+      <path d="m197 186.5 33 16.5v-33z" opacity=".11"/>
+      <path d="m197 223.5 33 16.5v-33z" opacity=".11"/>
+      <path d="m197 260.5 33 16.5v-33z" opacity=".11"/>
+      <path d="m197 297.5 33 16.5v-33z" opacity=".11"/>
+      <g clip-path="url(#a)">
+        <path d="m198 92v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m220 133-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m220 133 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m224 100-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path d="m190 96v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m212 137-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m212 137 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m216 104-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path d="m182 100v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m204 141-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m204 141 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m208 108-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path d="m168 107v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m190 148-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m190 148 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m194 115-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path d="m160 111v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m182 152-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m182 152 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m186 119-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path d="m152 115v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m174 156-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m174 156 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m178 123-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path d="m144 119v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m166 160-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m166 160 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m170 127-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path d="m128 127v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m150 168-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m150 168 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m154 135-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path d="m120 131v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m142 172-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m142 172 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m146 139-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path d="m112 135v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m134 176-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m134 176 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m138 143-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path d="m98 142v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m120 183-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m120 183 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m124 150-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path d="m90 146v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m112 187-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m112 187 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m116 154-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path d="m82 150v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m104 191-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m104 191 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m108 158-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m192 132v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m214 173-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m214 173 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m218 140-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m184 136v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m206 177-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m206 177 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m210 144-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m176 140v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m198 181-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m198 181 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m202 148-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m168 144v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m190 185-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m190 185 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m194 152-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m160 148v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m182 189-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m182 189 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m186 156-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m152 152v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m174 193-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m174 193 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m178 160-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m144 156v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m166 197-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m166 197 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m170 164-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m128 164v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m150 205-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m150 205 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m154 172-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m120 168v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m142 209-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m142 209 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m146 176-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m112 172v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m134 213-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m134 213 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m138 180-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m88 184v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m110 225-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m110 225 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m114 192-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m80 188v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m102 229-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m102 229 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m106 196-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#b)">
+        <path d="m72 192v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m94 233-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m94 233 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m98 200-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#c)">
+        <path d="m198 166v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m220 207-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m220 207 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m224 174-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#c)">
+        <path d="m190 170v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m212 211-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m212 211 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m216 178-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#c)">
+        <path d="m182 174v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m204 215-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m204 215 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m208 182-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#c)">
+        <path d="m168 181v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m190 222-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m190 222 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m194 189-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#c)">
+        <path d="m160 185v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m182 226-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m182 226 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m186 193-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#c)">
+        <path d="m152 189v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m174 230-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m174 230 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m178 197-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#c)">
+        <path d="m144 193v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m166 234-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m166 234 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m170 201-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#c)">
+        <path d="m128 201v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m150 242-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m150 242 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m154 209-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#c)">
+        <path d="m120 205v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m142 246-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m142 246 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m146 213-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#c)">
+        <path d="m112 209v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m134 250-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m134 250 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m138 217-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#d)">
+        <path d="m174 215v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m196 256-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m196 256 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m200 223-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#d)">
+        <path d="m166 219v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m188 260-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m188 260 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m192 227-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#d)">
+        <path d="m152 226v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m174 267-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m174 267 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m178 234-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#d)">
+        <path d="m144 230v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m166 271-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m166 271 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m170 238-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#d)">
+        <path d="m136 234v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m158 275-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m158 275 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m162 242-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#d)">
+        <path d="m128 238v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m150 279-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m150 279 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m154 246-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#d)">
+        <path d="m120 242v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m142 283-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m142 283 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m146 250-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#d)">
+        <path d="m98 253v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m120 294-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m120 294 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m124 261-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#d)">
+        <path d="m90 257v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m112 298-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m112 298 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m116 265-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#d)">
+        <path d="m82 261v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m104 302-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m104 302 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m108 269-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#e)">
+        <path d="m198 240v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m220 281-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m220 281 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m224 248-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#e)">
+        <path d="m190 244v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m212 285-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m212 285 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m216 252-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#e)">
+        <path d="m182 248v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m204 289-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m204 289 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m208 256-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#e)">
+        <path d="m174 252v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m196 293-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m196 293 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m200 260-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#e)">
+        <path d="m166 256v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m188 297-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m188 297 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m192 264-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#e)">
+        <path d="m152 263v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m174 304-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m174 304 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m178 271-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#e)">
+        <path d="m144 267v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m166 308-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m166 308 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m170 275-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#e)">
+        <path d="m120 279v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m142 320-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m142 320 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m146 287-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#e)">
+        <path d="m112 283v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m134 324-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m134 324 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m138 291-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#e)">
+        <path d="m80 299v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m102 340-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m102 340 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m106 307-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#e)">
+        <path d="m72 303v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m94 344-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m94 344 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m98 311-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m198 277v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m220 318-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m220 318 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m224 285-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m190 281v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m212 322-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m212 322 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m216 289-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m182 285v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m204 326-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m204 326 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m208 293-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m168 292v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m190 333-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m190 333 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m194 300-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m160 296v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m182 337-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m182 337 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m186 304-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m152 300v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m174 341-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m174 341 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m178 308-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m144 304v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m166 345-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m166 345 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m170 312-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m128 312v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m150 353-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m150 353 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m154 320-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m120 316v30l22 11 6-3v-30l-22-11z" fill="#39c"/>
+        <path d="m142 357-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m142 357 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m146 324-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m112 320v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m134 361-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m134 361 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m138 328-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m98 327v30l22 11 6-3v-30l-22-11z" fill="#9c3"/>
+        <path d="m120 368-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m120 368 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m124 335-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m90 331v30l22 11 6-3v-30l-22-11z" fill="#fc0"/>
+        <path d="m112 372-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m112 372 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m116 339-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+      <g clip-path="url(#f)">
+        <path d="m82 335v30l22 11 6-3v-30l-22-11z" fill="#939"/>
+        <path d="m104 376-22-11v-30l22 11z" opacity=".11"/>
+        <path d="m104 376 6-3v-30l-6 3z" opacity=".29"/>
+        <path d="m108 343-4 2-20-10 4-2z" fill="#999"/>
+      </g>
+    </g>
+  </a>
   <g transform="matrix(-.3 0 0 .3 752 136)">
     <path d="m0 80v120l60 30 80-40v-120l-60-30z" fill="#762c07"/>
     <path d="m60 230-60-30v-120l60 30z" opacity=".29"/>

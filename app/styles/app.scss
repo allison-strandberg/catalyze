@@ -345,6 +345,7 @@ h1 {
 }
 
 .close-button {
+  z-index: 1;
   position: absolute;
   top: 5px;
   right: 10px;
@@ -356,6 +357,19 @@ h1 {
   &:focus {
     outline: none;
     color: $gray;
+  }
+}
+
+.image-dialog {
+  .close-button {
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+    top: 10px;
+    font-family: 'Cutive Mono', monospace;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 0 0.5rem;
+    border: 3px solid black;
   }
 }
 
