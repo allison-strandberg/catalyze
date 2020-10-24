@@ -321,7 +321,7 @@ h1 {
   position: relative;
   height: 100%;
   margin-top: 4rem;
-  padding: 0 2rem 1rem 4rem;
+  padding: 0 2rem 1rem 3rem;
   background-image: repeating-linear-gradient(#f5f5f5 -5px, #f5f5f5 19px, teal 20px);
 }
 
@@ -375,4 +375,12 @@ h1 {
 
 .bad-script {
   font-family: "Bad Script", sans-serif;
+}
+
+.right-align {
+  text-align: right;
+}
+
+.no-indent {
+  text-indent: 0;
 }
