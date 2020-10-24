@@ -242,6 +242,12 @@ h1 {
   animation: point-southwest 1s ease-in-out infinite;
 }
 
+.svg-link .svg-item {
+  stroke: #E68A00;
+  stroke-width: 0;
+  transition: stroke-width 0.1s;
+}
+
 .svg-link:focus {
   outline: none;
 }
@@ -249,6 +255,7 @@ h1 {
 .svg-link:focus .svg-item, .svg-link:hover .svg-item {
   stroke: #E68A00;
   stroke-width: 5px;
+  transition: stroke-width 0.1s;
 }
 
 .svg-link:focus .arrow-svg {
