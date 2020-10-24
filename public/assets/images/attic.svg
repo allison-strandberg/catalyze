@@ -1013,35 +1013,32 @@
     <path d="m126 127-100-50v180l100 50z" opacity=".11"/>
     <path d="m126 127 4-2v180l-4 2z" opacity=".29"/>
   </g>
-  <g transform="matrix(-2.5 0 0 2.5 824 84)">
-    <path d="m32 24-32 16v-24l32-16z" fill="#825012"/>
-    <path d="m15 32.5-14 7v-21l14-7z" fill="#39c"/>
-    <g fill="#262626">
-      <path d="m15 15.5-14 7v-4l14-7z" opacity=".15"/>
-      <path d="m15 13.5-14 7v-2l14-7z" opacity=".15"/>
-      <path d="m15 12.5-14 7v-1l14-7z" opacity=".15"/>
-      <path d="m15 18.5-14 7v-1l14-7z" opacity=".15"/>
-    </g>
-    <path d="m15 16.5-4 2v-5l-1 .5v5l-4 2v-5l-1 .5v5l-4 2v1l4-2v15l1-.5v-15l4-2v15l1-.5v-15l4-2z" fill="#fff" opacity=".7"/>
-    <path d="m31 24.5-14 7v-21l14-7z" fill="#39c"/>
-    <path d="m31 7.5-14 7v-4l14-7z" fill="#262626" opacity=".15"/>
-    <path d="m31 5.5-14 7v-2l14-7z" fill="#262626" opacity=".15"/>
-    <path d="m31 4.5-14 7v-1l14-7z" fill="#262626" opacity=".15"/>
-    <path d="m31 10.5-14 7v-1l14-7z" fill="#262626" opacity=".15"/>
-    <g fill="#fff">
-      <path d="m31 8.5-4 2v-5l-1 .5v5l-4 2v-5l-1 .5v5l-4 2v1l4-2v15l1-.5v-15l4-2v15l1-.5v-15l4-2z" opacity=".7"/>
-      <path d="m26 27-4 2v-21l4-2z" opacity=".3"/>
-      <path d="m31 24.5-4 2v-21l4-2z" opacity=".2"/>
-      <path d="m10 35-4 2v-21l4-2z" opacity=".2"/>
-      <path d="m21 29.5-4 2v-21l4-2z" opacity=".1"/>
-    </g>
-    <path d="m32 24-32 16v-24l32-16z" opacity=".11"/>
-    <a class="svg-link" href="https://catalyze.theater/house/first-floor/?demo=true&amp;right_half_of_northeast_window=gazed">
-      <g class="svg-item windowpane">
-        <path d="m15 32.5-14 7v-21l14-7z" fill="#39c" fill-opacity="0"/>
+  <a class="svg-link" href="https://catalyze.theater/house/first-floor/?demo=true&amp;northeast_window=gazed">
+    <g class="svg-item basement-northeast-window" transform="matrix(-2.5 0 0 2.5 824 84)">
+      <path d="m32 24-32 16v-24l32-16z" fill="#825012"/>
+      <path d="m15 32.5-14 7v-21l14-7z" fill="#39c"/>
+      <g fill="#262626">
+        <path d="m15 15.5-14 7v-4l14-7z" opacity=".15"/>
+        <path d="m15 13.5-14 7v-2l14-7z" opacity=".15"/>
+        <path d="m15 12.5-14 7v-1l14-7z" opacity=".15"/>
+        <path d="m15 18.5-14 7v-1l14-7z" opacity=".15"/>
       </g>
-    </a>
-  </g>
+      <path d="m15 16.5-4 2v-5l-1 .5v5l-4 2v-5l-1 .5v5l-4 2v1l4-2v15l1-.5v-15l4-2v15l1-.5v-15l4-2z" fill="#fff" opacity=".7"/>
+      <path d="m31 24.5-14 7v-21l14-7z" fill="#39c"/>
+      <path d="m31 7.5-14 7v-4l14-7z" fill="#262626" opacity=".15"/>
+      <path d="m31 5.5-14 7v-2l14-7z" fill="#262626" opacity=".15"/>
+      <path d="m31 4.5-14 7v-1l14-7z" fill="#262626" opacity=".15"/>
+      <path d="m31 10.5-14 7v-1l14-7z" fill="#262626" opacity=".15"/>
+      <g fill="#fff">
+        <path d="m31 8.5-4 2v-5l-1 .5v5l-4 2v-5l-1 .5v5l-4 2v1l4-2v15l1-.5v-15l4-2v15l1-.5v-15l4-2z" opacity=".7"/>
+        <path d="m26 27-4 2v-21l4-2z" opacity=".3"/>
+        <path d="m31 24.5-4 2v-21l4-2z" opacity=".2"/>
+        <path d="m10 35-4 2v-21l4-2z" opacity=".2"/>
+        <path d="m21 29.5-4 2v-21l4-2z" opacity=".1"/>
+      </g>
+      <path d="m32 24-32 16v-24l32-16z" opacity=".11"/>
+    </g>
+  </a>
   <g transform="matrix(2.5 0 0 2.5 360 156)">
     <path d="m32 24-32 16v-24l32-16z" fill="#825012"/>
     <path d="m15 32.5-14 7v-21l14-7z" fill="#39c"/>
@@ -1065,6 +1062,11 @@
       <path d="m21 29.5-4 2v-21l4-2z" opacity=".1"/>
     </g>
     <path d="m32 24-32 16v-24l32-16z" opacity=".29"/>
+          <a class="svg-link" href="https://catalyze.theater/house/first-floor/?demo=true&amp;northwest_window=peered">
+        <g class="svg-item windowpane">
+          <path d="m15 32.5-14 7v-21l14-7z" fill="#39c" fill-opacity="0"/>
+        </g>
+      </a>
   </g>
   <a class="svg-link" href="https://www.asymmetryfiction.com/time-like-river-sunset-black/" target="_blank">
     <g class="svg-item storage-window" transform="matrix(2.5 0 0 2.5 64 300)">
