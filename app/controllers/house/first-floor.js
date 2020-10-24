@@ -3,7 +3,14 @@ import { tracked } from '@glimmer/tracking';
 import { action } from '@ember/object';
 
 export default class HouseFirstFloorController extends Controller {
-  queryParams = ['begonias', 'lemongrass', 'snake_plant', 'pothos', 'begonia_sketch'];
+  queryParams = [
+    'begonias',
+    'lemongrass',
+    'snake_plant',
+    'pothos',
+    'begonia_sketch',
+    'bookshelf',
+  ];
 
   @tracked begonias;
 
@@ -15,6 +22,8 @@ export default class HouseFirstFloorController extends Controller {
 
   @tracked begonia_sketch;
 
+  @tracked bookshelf;
+
   @action
   toFirstFloor() {
     this.transitionToRoute('house.first-floor', { queryParams: { 
@@ -23,6 +32,7 @@ export default class HouseFirstFloorController extends Controller {
       snake_plant: null,
       pothos: null,
       begonia_sketch: null,
+      bookshelf: null,
     }});
   }
 }

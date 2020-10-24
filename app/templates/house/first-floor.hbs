@@ -6,6 +6,35 @@
   </div>
 </Floor>
 
+{{#if this.bookshelf}}
+  <Modal @classNames="parchment poet-dialog" @onClose={{this.toFirstFloor}}>
+    <p>
+      and when I fall asleep here, the bed I’m in becomes my childhood bed, and my pillow belongs to the head that was five-years old when I rested there.
+      Even if it’s silent, I hear my old neighbors singing— what they used to sing, anyway—their houses ignited from the inside out like lanterns or fireflies stuck in bottles.
+      Summer sounds, to me, are the trill of voices, competing with each other in music and laughter.
+      It’s strange because this room is thousands of miles away from the room of my child- hood, but at nights, it becomes the same room with the residue of those long ago evenings.
+    </p>
+    <p>      
+      And the house! That marvel, she listens in, holds me, cradles me without much care whether I’m ten or twenty. Its lullaby are the staccato creaks of floorboards, the whine of doors opening, foot- steps made by the memory of feet, the rattle of a lamp swinging on a lintel torn down years before. It’s all as familiar to me as the rattle of my heart before I curl myself around it and go to sleep.
+    </p>
+    <p>
+      <br /><br />
+      Thinking of you.
+    </p>
+    <p>
+      <br /><br />
+      All my love,
+    </p>
+    <p>
+      J.
+    </p>
+    <p>
+      <br /><br />
+      5-9-71
+    </p>
+  </Modal>
+{{/if}}
+
 {{#if this.begonias}}
   <Modal @classNames="begonia-dialog parchment" @onClose={{this.toFirstFloor}}>
       <p>
