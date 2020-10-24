@@ -9,8 +9,29 @@
 {{#if this.bookshelf}}
   <Modal @classNames="image-dialog" @onClose={{this.toAttic}}>
     <img
+      class="image"
       src="/assets/images/earth-to-moon.png"
       alt="A leatherbound edition of De La Terre A La Lune by Jules Verne"
+    />
+  </Modal>
+{{/if}}
+
+{{#if this.northeast_window}}
+  <Modal @classNames="image-dialog" @onClose={{this.toAttic}}>
+    <img
+      class="image"
+      src="/assets/images/wyoming-sky.png"
+      alt="The evening sky above a long, empty road"
+    />
+  </Modal>
+{{/if}}
+
+{{#if this.northwest_window}}
+  <Modal @classNames="image-dialog" @onClose={{this.toAttic}}>
+    <img
+      class="image devils-tower"
+      src="/assets/images/devils-tower.jpg"
+      alt="A black and white photo of Devil's Tower, a huge striated rock formation in Wyoming"
     />
   </Modal>
 {{/if}}

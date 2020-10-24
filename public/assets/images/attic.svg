@@ -1036,6 +1036,11 @@
       <path d="m21 29.5-4 2v-21l4-2z" opacity=".1"/>
     </g>
     <path d="m32 24-32 16v-24l32-16z" opacity=".11"/>
+    <a class="svg-link" href="https://catalyze.theater/house/first-floor/?demo=true&amp;right_half_of_northeast_window=gazed">
+      <g class="svg-item windowpane">
+        <path d="m15 32.5-14 7v-21l14-7z" fill="#39c" fill-opacity="0"/>
+      </g>
+    </a>
   </g>
   <g transform="matrix(2.5 0 0 2.5 360 156)">
     <path d="m32 24-32 16v-24l32-16z" fill="#825012"/>
