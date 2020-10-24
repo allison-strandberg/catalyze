@@ -1,0 +1,13 @@
+  <PaperDialog
+    @class="dialog begonia-dialog"
+    @onClose={{@onClose}}
+    @parent=".floor"
+    @clickOutsideToClose={{true}}
+    @fullscreen={{true}}
+    @escapeToClose={{true}}
+  >
+    <div class="parchment">
+      <button class="close-button" {{on "click" @onClose}}>X</button>
+      {{yield}} 
+    </div>
+  </PaperDialog>

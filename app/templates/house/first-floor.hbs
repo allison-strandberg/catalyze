@@ -7,14 +7,7 @@
 </Floor>
 
 {{#if this.begonias}}
-  <PaperDialog
-    @class="dialog begonia-dialog"
-    @onClose={{this.toFirstFloor}}
-    @parent=".floor"
-    @clickOutsideToClose={{true}}
-    {{!-- @fullscreen={{true}} --}}
-  >
-    <div class="parchment">
+  <Modal @onClose={{this.toFirstFloor}}>
       <p>
         Roger acquired this cutting from a man who said he purchased it in Thailand.
         He didn't know the specific name of the plant, but it seems to be some sort of begonia- I plan on writing to some botanists who specialize in plants from the orient to see if any of them can identify it.
@@ -23,6 +16,62 @@
         Like I know it will become something wonderful if only given the chance.
         I hope it will thrive in our climate.
       </p> 
-    </div>
-  </PaperDialog>
+  </Modal>
+{{/if}}
+
+{{#if this.lemongrass}}
+  <Modal @onClose={{this.toFirstFloor}}>
+      <p>
+        It appears our little begonia has caused quite a stir in the local horticultural community.
+        It seems no one can identify it- but they all seem drawn to it.
+        Many, many people have asked me for cuttings, and it grows so quickly I’ve been more than happy to oblige.
+        It’s begun to develop the most fascinating wide, flat leaves- I wonder if spring will see it flowering?
+      </p> 
+  </Modal>
+{{/if}}
+
+{{#if this.snake_plant}}
+  <Modal @onClose={{this.toFirstFloor}}>
+      <p>
+        Some of the botanists who accepted cuttings from our little begonia have written to me to tell me the cuttings are not thriving- most unusual, since all of the ones I’ve placed around the house have been doing quite well.
+        Except the ones I keep putting in the kitchen- those keep vanishing.
+        Very strange.
+      </p> 
+  </Modal>
+{{/if}}
+
+{{#if this.pothos}}
+  <Modal @onClose={{this.toFirstFloor}}>
+      <p>
+        Excerpt from the last will and testament of Mrs. Imelda Christopherson
+        <br /><br />
+        “There exists, in the conservatory of the house, a most peculiar begonia- it’s exact species no one has ever been able to tell me but it was, for a time, a minor sensation among the botanical societies of Cambridge.
+        Given its uniqueness and its apparent inability to thrive in any climate other than this house it is, quite frankly, invaluable.
+        I leave it to Ms. Elena Harris.
+        It may seem an odd thing to leave something so precious to the daughter of an old servant, but it is what the tree told me to do.
+        I know, you think me mad, but I assure you, I am sound of mind as I make this request.
+        The begonia has chosen Ms. Harris as its caretaker.
+        It will have no other.
+        I ask that she be given room and board and a generous stipend for undertaking this sacred duty.”
+      </p> 
+  </Modal>
+{{/if}}
+
+{{#if this.begonia_sketch}}
+  <Modal @onClose={{this.toFirstFloor}}>
+      <p>
+        Dear Henry,
+        <br /><br />
+        Something very strange has happened.
+        An old employer of my mother passed away, and her son approached me with a most unusual proposition- it is most strange and I fear there may be some sinister purpose behind it.
+        But alas, I cannot turn down the opportunity.
+        So much money for such a simple task.
+        And so I must bid you adieu, for now and return to Cambridge.
+        I know our paths will cross again.
+        <br /><br />
+        Yours always,
+        <br />
+        Elena
+      </p> 
+  </Modal>
 {{/if}}
