@@ -20,6 +20,8 @@ export default class HouseAtticController extends Controller {
 
   @tracked cat;
 
+  @tracked tube;
+
   @action
   toAttic() {
     this.transitionToRoute('house.attic', { queryParams: { 
@@ -28,6 +30,7 @@ export default class HouseAtticController extends Controller {
       northeast_window: null,
       northwest_window: null,
       cat: null,
+      tube: null,
     }});
   }
 }
