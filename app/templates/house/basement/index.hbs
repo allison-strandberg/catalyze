@@ -6,10 +6,14 @@
   </div>
 </Floor>
 
-{{log (concat "this.clipboard " this.clipboard)}}
-{{log (concat "parent " this.parentController.queryParams)}}
 {{#if this.clipboard}}
   <Modal @onClose={{this.toBasement}}>
     <MadLib />
+  </Modal>
+{{/if}}
+
+{{#if this.diary}}
+  <Modal @classNames="parchment poet-dialog" @onClose={{this.toBasement}}>
+    <Diary />
   </Modal>
 {{/if}}
