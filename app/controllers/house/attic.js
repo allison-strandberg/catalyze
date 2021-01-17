@@ -8,6 +8,8 @@ export default class HouseAtticController extends Controller {
     'bookshelf',
     'northeast_window',
     'northwest_window',
+    'cat',
+    'tube',
   ];
 
   @tracked magnifying_glass;
