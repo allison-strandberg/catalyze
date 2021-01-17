@@ -447,10 +447,16 @@ h1 {
     justify-content: flex-end;
     font-family: 'Cutive Mono', monospace;
   }
+}
 
-  .diary {
-    font-size: 22px;
-    font-family: "Bad Script", sans-serif;
-    line-height: 1.5em;
+.diary {
+  font-size: 22px;
+  font-family: "Bad Script", sans-serif;
+  line-height: 1.5em;
+
+  .diary-buttons {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 0;
   }
 }
