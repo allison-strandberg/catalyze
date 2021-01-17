@@ -430,3 +430,27 @@ h1 {
 .italic {
   font-style: italic;
 }
+
+.mad-lib-container {
+  background-color: #E0E0E0;
+  border-radius: 5px;
+  padding: 2rem;
+  font-family: 'Cutive Mono', monospace;
+
+  .mad-lib-fields {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .submit-row {
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Cutive Mono', monospace;
+  }
+
+  .diary {
+    font-size: 22px;
+    font-family: "Bad Script", sans-serif;
+    line-height: 1.5em;
+  }
+}

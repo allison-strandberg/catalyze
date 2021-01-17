@@ -1,0 +1,51 @@
+<div class="mad-lib-container">
+  {{#if this.showForm}}
+    <h1>Mad World Mad Libs</h1>
+    <br/>
+    Read your diary from the future!
+    Guaranteed to show a different timeline every time, or your money back.
+    <br/>
+
+    <PaperForm @onSubmit={{this.onSubmit}} as |form|>
+      <div class="mad-lib-fields">
+        <form.input @label="Recording medium" @value={{this.recordingMedium}} @onChange={{action (mut this.recordingMedium)}} />
+        <form.input @label="-ing verb" @value={{this.ingVerb1}} @onChange={{action (mut this.ingVerb1)}} />
+        <form.input @label="Place" @value={{this.place}} @onChange={{action (mut this.place)}} />
+        <form.input @label="Name of person" @value={{this.nameOfPerson}} @onChange={{action (mut this.nameOfPerson)}} />
+        <form.input @label="Animal" @value={{this.animal}} @onChange={{action (mut this.animal)}} />
+        <form.input @label="Name of dwelling" @value={{this.nameOfDwelling}} @onChange={{action (mut this.nameOfDwelling)}} />
+        <form.input @label="Adjective" @value={{this.adjective1}} @onChange={{action (mut this.adjective1)}} />
+        <form.input @label="Type of disaster" @value={{this.typeOfDisaster}} @onChange={{action (mut this.typeOfDisaster)}} />
+        <form.input @label="Plural noun" @value={{this.pluralNoun1}} @onChange={{action (mut this.pluralNoun1)}} />
+        <form.input @label="Adjective" @value={{this.adjective2}} @onChange={{action (mut this.adjective2)}} />
+        <form.input @label="Noun" @value={{this.noun1}} @onChange={{action (mut this.noun1)}} />
+        <form.input @label="Adjective" @value={{this.adjective3}} @onChange={{action (mut this.adjective3)}} />
+        <form.input @label="Hobby" @value={{this.hobby}} @onChange={{action (mut this.hobby)}} />
+        <form.input @label="-ing verb" @value={{this.ingVerb2}} @onChange={{action (mut this.ingVerb2)}} />
+        <form.input @label="Type of leader" @value={{this.typeOfLeader}} @onChange={{action (mut this.typeOfLeader)}} />
+        <form.input @label="Adjective" @value={{this.adjective4}} @onChange={{action (mut this.adjective4)}} />
+        <form.input @label="Noun" @value={{this.noun2}} @onChange={{action (mut this.noun2)}} />
+        <form.input @label="Plural noun" @value={{this.pluralNoun2}} @onChange={{action (mut this.pluralNoun2)}} />
+        <form.input @label="-ing verb" @value={{this.ingVerb3}} @onChange={{action (mut this.ingVerb3)}} />
+        <form.input @label="Type of furniture" @value={{this.typeOfFurniture}} @onChange={{action (mut this.typeOfFurniture)}} />
+      </div>
+      <div class="submit-row">
+        <form.submit-button @raised={{true}} @primary={{true}}>Submit</form.submit-button>
+      </div>
+    </PaperForm>
+  {{else}}
+  <div class="diary">
+    Dear {{this.recordingMedium}},
+    <br /><br />
+    In an alternate universe, I’d spend this weekend {{this.ingVerb1}} in {{this.place}} with {{this.nameOfPerson}} and their pet {{this.animal}}.
+    But of course I’ve been stuck in my {{this.nameOfDwelling}} in Cambridge ever since the {{this.adjective1}} {{this.typeOfDisaster}}, with nothing but my {{this.pluralNoun1}} and the {{this.adjective2}} {{this.noun1}} instead.
+    I tried to pick up {{this.adjective3}} {{this.hobby}}, but it’s so hard to focus on anything when the world is {{this.ingVerb2}} out of control and now even our {{this.typeOfLeader}} is endorsing the {{this.adjective4}} {{this.noun2}} conspiracy so who knows what’s real anymore!
+    <br /><br />
+    I think my house is haunted by {{this.pluralNoun2}}. I hear them {{this.ingVerb3}} every night behind the {{this.typeOfFurniture}}...
+    <br /><br />
+    <div class="submit-row">
+      <PaperButton @onClick={{action "onBack"}} @raised={{true}} @primary={{true}}>Another!</PaperButton>
+    </div>
+  </div>
+  {{/if}}
+</div>

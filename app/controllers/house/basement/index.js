@@ -2,7 +2,7 @@ import Controller from '@ember/controller';
 import { tracked } from '@glimmer/tracking';
 import { action } from '@ember/object';
 
-export default class HouseBasementController extends Controller {
+export default class HouseBasementIndexController extends Controller {
   queryParams = [
     'clipboard',
   ];
@@ -11,7 +11,7 @@ export default class HouseBasementController extends Controller {
 
   @action
   toBasement() {
-    this.transitionToRoute('house.basement', { queryParams: { 
+    this.transitionToRoute('house.basement.index', { queryParams: { 
       clipboard: null,
     }});
   }
